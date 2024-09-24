@@ -6,14 +6,30 @@
 //
 
 import UIKit
+//import FirebaseCore
+//import FirebaseAuth
+//import GoogleSignIn
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    // Realice cualquier configuración adicional después de cargar la vista --- Do any additional setup after loading the view.
     }
 
-
+    @IBOutlet var Home: [UINavigationItem]!
+    @IBOutlet weak var image: UIImageView!
+    
+    @IBAction func volver(_ sender: UIButton) {
+    }
+    
+    
+    
+    
+    func goToHome() {
+        self.performSegue(withIdentifier: "goToHome", sender: self)
+    }
+   
 }
+
 

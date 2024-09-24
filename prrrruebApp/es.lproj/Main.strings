@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; configuration.title = "Go To"; ObjectID = "7u2-IG-HyE"; */
+"7u2-IG-HyE.configuration.title" = "Go To";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7u2-IG-HyE"; */
+"7u2-IG-HyE.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "ver Datos"; ObjectID = "GCo-Tb-bAS"; */
+"GCo-Tb-bAS.configuration.title" = "ver Datos";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GCo-Tb-bAS"; */
+"GCo-Tb-bAS.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "HOLA MUNDO .... !"; ObjectID = "cFa-5B-ssT"; */
+"cFa-5B-ssT.text" = "HOLA MUNDO .... !";
